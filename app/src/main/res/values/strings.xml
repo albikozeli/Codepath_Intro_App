@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Codepath_Intro_App</string>
+    <string name="Hello">Hello World!, My name is Albi, I love watching movies/series. My two favourite series are Peaky Blinders and La Casa de Papel</string>
+    <string name="Dali">LCDP</string>
+    <string name="ButtonText">Greeting</string>
+</resources>
